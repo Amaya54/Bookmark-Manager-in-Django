@@ -1,0 +1,5 @@
+Views.py calls the function insert() and search() present in dbUtils.py
+dbUtils is the main file which helps in inserting new tags and searching tags.
+models contains Table required.
+
+Views act as the controller...
